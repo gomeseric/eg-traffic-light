@@ -41,5 +41,5 @@ export function TrafficLight(initialColor) {
   ></div>
 </div>
 </div>
-    )
+    );
 }
